@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de tecnologias ligadas à blockchain e peer-to-peer.`**
 
-Me chamo Breno Silva, tenho 22 anos e sou natural de São Paulo. Atualmente curso Engenharia de Software e Segurança da Infomação.
+Me chamo Breno Silva, tenho 22 anos e sou de Curitiba/PR. Atualmente curso Engenharia de Software e Segurança da Infomação.
 
 ---
 
